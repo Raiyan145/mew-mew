@@ -1,0 +1,6 @@
+{
+  "name": "Johaer's Flappy Adventure",
+  "description": "A fun and polished 2D cartoon Flappy Bird-style adventure featuring Johaer, responsive physics, funny reactions, and day/night cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
